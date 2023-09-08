@@ -1,6 +1,6 @@
 FROM bitnami/minideb:latest
 
-Label MAINTAINER Amir Pourmand
+Label MAINTAINER FerrisP Nugraha
 
 RUN apt-get update -y
 
