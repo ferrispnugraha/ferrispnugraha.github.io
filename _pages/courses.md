@@ -14,12 +14,19 @@ Organize your courses by years, topics, or universities, however you like! -->
 # Teaching Assistants:
 ----
 
+ELEC 2350: Computer Organization (Spring 2023)
+
 ELEC 4010O: Practical Considerations of Analog Integrated Circuit Design (Fall 2023)
 
-ELEC 2350: Computer Organization (Spring 2023)
+ELEC 5200: Advanced Topics in Nanoelectronics. (Spring 2023, Tutorial)
 
 # Postgraduate courses:
 ----
+
+UCLA x USC Quantum Device Workshop 2025, May 19-22, 2025
+
+IBM Qiskit Global Summer School 2023 - Quantum Excellence.
+
 COMP 5212: Machine Learning (Spring 2023)
 
 ELEC 5050: Advanced CMOS Devices (Spring 2023)
