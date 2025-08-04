@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Related topics of current research projects + other interests
-nav: true
+nav: false #true
 nav_order: 2
 display_categories: [research, others]
 horizontal: true
