@@ -20,6 +20,8 @@ ELEC 4010O: Practical Considerations of Analog Integrated Circuit Design (Fall 2
 
 ELEC 5200: Advanced Topics in Nanoelectronics. (Spring 2023, Tutorial)
 
+Hall Tutor at HKUST Undergraduate Hall 6 (2024-2026)
+
 # Postgraduate courses:
 ----
 

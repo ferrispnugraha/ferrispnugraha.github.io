@@ -26,12 +26,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Ferris Prima Nugraha was born in Pontianak, Indonesia in 2000. He earned his bachelor's degree in Computer Engineering with a Minor in Physics from HKUST in 2022. Currently, he is pursuing his PhD study in Electronic and Computer Engineering at the same institution, under the supervision of Prof. Qiming SHAO. He is supported by the Hong Kong PhD Fellowship Scheme (HKPFS). Prior to his undergraduate at HKUST, he participated in Physics Olympiads, earning gold, silver, and bronze medals at IPhO 2017, APhO 2017, and APhO 2016 respectively.
+Ferris Prima Nugraha was born in Pontianak, Indonesia in 2000. He earned his bachelor's degree in Computer Engineering with a Minor in Physics from HKUST in 2022. Currently, he is pursuing his PhD study in Electronic and Computer Engineering at the same institution, under the supervision of Prof. Qiming SHAO. He is supported by the Hong Kong PhD Fellowship Scheme (HKPFS). Prior to his undergraduate at HKUST, he participated in Physics Olympiads, earning gold, silver, and bronze medals at IPhO 2017, APhO 2017, and APhO 2016 respectively. In his free time, he enjoys swimming, playing the flute, and hiking.
 
 Current research interest: 
 
 **Electronic design and automation (EDA)**, **quantum control**, **superconducting qubits**, **optimization**, and **hybrid quantum systems**.
 
 <p>
-  You can download my CV <a href="/assets/pdf/Curriculum_Vitae__detail.pdf" target="_blank" rel="noopener noreferrer">here</a>
+  My CV is available <a href="/assets/pdf/Curriculum_Vitae__detail.pdf" target="_blank" rel="noopener noreferrer">here.</a>
 </p>
