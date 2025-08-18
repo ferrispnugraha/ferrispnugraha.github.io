@@ -15,14 +15,18 @@
   pages={1360--1368},
   year={2023},
   organization={IEEE},
-  selected={true}
+  selected={true},
+  abstract={Scaling of superconducting-based quantum computers has been possible since the invention of transmon qubits due to their low charge noise sensitivity. However, pursuing fault-tolerant and computationally powerful quantum processors may require incorporating more qubits, which may amplify the complexity of the large design space exploration and simulation. Inspired by the recent CMOS Machine Learning assisted electronic design automation to solve similar issues, we claim this work is the first to demonstrate applying machine learning in superconducting circuit design. To start, we attempt to predict the characteristics of individual transmon qubits with a machine learning-based approach based on the simulation data collected with relevant software frameworks like Qiskit Metal and ANSYS Electronics. Our approach aims to perform forward modeling to predict the qubit engineering parameters such as frequency. On the other hand, the machine learning-based model can also infer, through inverse modeling, the candidate sets of design space parameters like the device dimensions satisfying a particular specification while obeying the geometrical constraint of the transmon types. This work paves an alternative way for future applications in designing and automating superconducting quantum computing circuits.},
+  html={https://ieeexplore.ieee.org/document/10313706},
 }
 
 @article{huang2024quantum,
   title={Quantum Graph Optimization Algorithm},
   author={Huang, Yuhan and Nugraha, Ferris Prima and Jin, Siyuan and Zhang, Yichi and Zeng, Bei and Shao, Qiming},
   journal={arXiv preprint arXiv:2404.06434},
-  year={2024}
+  year={2024},
+  abstract={Quadratic unconstrained binary optimization (QUBO) tasks are very important in chemistry, finance, job scheduling, and so on, which can be represented using graph structures, with the variables as nodes and the interaction between them as edges. Variational quantum algorithms, especially the Quantum Approximate Optimization Algorithm (QAOA) and its variants, present a promising way, potentially exceeding the capabilities of classical algorithms, for addressing QUBO tasks. However, the possibility of using message-passing machines, inspired by classical graph neural networks, to enhance the power and performance of these quantum algorithms for QUBO tasks was not investigated. This study introduces a novel variational quantum graph optimization algorithm that integrates the message-passing mechanism, which demonstrates significant improvements in performance for solving QUBO problems in terms of resource efficiency and solution precision, compared to QAOA, its variants, and other quantum graph neural networks. Furthermore, in terms of scalability on QUBO tasks, our algorithm shows superior performance compared to QAOA, presenting a substantial advancement in the field of quantum approximate optimization.},
+  arxiv={2404.06434},
 }
 
 @article{liu2024strong,
@@ -33,7 +37,9 @@
   number={3},
   pages={034017},
   year={2024},
-  publisher={American Physical Society}
+  publisher={American Physical Society},
+  abstract={Magnetic insulators, such as yttrium iron garnets (YIGs), are important for spin-wave or magnonic devices as their low damping enables low-power dissipation. Magnetic insulator heterostructures can offer larger design space for realizing exotic magnonic quantum states, provided that individual layers have low damping and their exchange coupling is strong and engineerable. Here, we show that, in a high-quality all-insulator thulium iron garnet (TmIG)/YIG bilayer system, TmIG exhibits an ultralow dissipation rate thanks to its low-damping, low-saturation magnetization and strong orbital momentum. The low dissipation rates in both YIG and TmIG, along with their significant coupling strength due to interfacial exchange coupling, enable strong and coherent magnon-magnon coupling. The coupling strength can be tuned by varying the magnetic insulator layer thickness and magnon modes, which is consistent with analytical calculations and micromagnetic simulations. Our results demonstrate TmIG/YIG as a novel platform for investigating hybrid magnonic phenomena and open opportunities for magnon devices comprising all-insulator heterostructures.},
+  html={https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.034017},
 }
 
 @inproceedings{qian2024cryogenic,
@@ -42,7 +48,9 @@
   booktitle={2024 IEEE International Electron Devices Meeting (IEDM)},
   pages={1--4},
   year={2024},
-  organization={IEEE}
+  organization={IEEE},
+  abstract={Cryogenic in-memory computing, operating at temperatures below 4.2 K, offers high performance and energy efficiency in computation-intensive environments, especially for quantum controls. Spintronic memristors based on anomalous Hall effect (AHE) can be utilized with advantages of multi-bit bipolar weights and nearly unlimited endurance. However, there exists two major challenges in realizing an AHE-based neural network (NN): first, anomalous Hall resistances RH typically range in the order of a few ohms in conventional ferromagnets; second, signal-to-noise ratio of summation and read disturbance can lead to errors in NN operation. In this work, we demonstrate large RH of 12 kΩ at 2 K using a magnetic topological insulator (MTI) utilizing the quantum AHE, and for the first time, propose and experimentally verify the multiply-and-accumulate operation of a transverse-read Hall-current based neural network (Hall NN). Simulation of the proposed MTI Hall NN achieves matching accuracy to a full-precision network in the noisy qubit state preparation task. Compared with the MRAM NN, the MTI NN features a 90% lower write energy and 10 times higher TOPS/W showing the promise of MTI Hall NNs.},
+  html={https://ieeexplore.ieee.org/document/10757420}
 }
 
 @inproceedings{liu2025chip,
@@ -52,7 +60,9 @@
   pages={1--3},
   year={2025},
   organization={IEEE},
-  selected={true}
+  selected={true},
+  abstract={On-chip hybrid system utilizing photon-mediated coupling between magnon and superconducting qubit is proposed in this paper. By integrating a magnetic thin film in the z -axis with superconducting circuits, quantum operations between two-level magnon modes and qubit are enabled without increasing the circuit footprint, controlled by external magnetic field. Physical parameters of the coupled system are obtained using the proposed Multiphysics model following our design framework. Finally, we demonstrated the behavior of the system and performed quantum operations based on the Hamiltonian model.},
+  html={https://ieeexplore.ieee.org/document/11041146},
 }
 
 @inproceedings{Nugraha2025simulated,
@@ -61,5 +71,6 @@
   booktitle = {2025 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)},
   year      = {2025},
   note      = {Accepted},
-  selected={true}
+  selected={true},
+  abstract={Quantum computing offers the potential to surpass classical computing speeds by leveraging quantum entanglement and superposition. However, progress towards fault-tolerant quantum computers is limited by low qubit counts and considerable gate errors. A promising direction involves transitioning from two-level qubits to d-level qudits, expanding the state space beyond conventional qubit-based quantum computers. The superconducting transmon-tunable coupler-transmon (TTT) system has emerged as a key building block of current quantum processors. Recent demonstration has shown its capability to host three-level qudits (qutrits), including the implementation of qutrit controlled-phase (CPhase) gate via an adiabatic scheme. Despite this progress, further modeling or optimization studies for the qudit-based TTT system are still unexplored. In this work, we propose an integrated simulation framework that predicts the cross-Kerr interactions of the TTT system and the fidelities of two-qutrit CPhase gate with the presence of noise effect. We validate the prediction of the cross-Kerr interactions against data from TTT systems reported in the literature. We also identify the conditions for the maximum target frequency in the adiabatic scheme necessary to achieve higher qutrit CPhase gate fidelity. Furthermore, we demonstrate the control-device co-optimization of the system, showing the potential of achieving the highest gate fidelity allowed by the hardware and noise. This work provides valuable insights which can guide the development towards more reliable and powerful superconducting quantum processors.},
 }
