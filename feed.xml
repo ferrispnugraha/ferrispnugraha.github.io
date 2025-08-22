@@ -1,1 +1,196 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferrispnugraha.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://ferrispnugraha.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-08-21T04:12:32+00:00</updated><id>https://ferrispnugraha.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">Must-know quantum gates</title><link href="https://ferrispnugraha.github.io/blog/2025/quantum-gates-qubit-qudit/" rel="alternate" type="text/html" title="Must-know quantum gates"/><published>2025-08-21T10:00:00+00:00</published><updated>2025-08-21T10:00:00+00:00</updated><id>https://ferrispnugraha.github.io/blog/2025/quantum-gates-qubit-qudit</id><content type="html" xml:base="https://ferrispnugraha.github.io/blog/2025/quantum-gates-qubit-qudit/"><![CDATA[<p>Coming soon!</p>]]></content><author><name></name></author><category term="reading"/><category term="physics"/><category term="superconducting"/><summary type="html"><![CDATA[From qubits, qutrits, to qudits]]></summary></entry><entry><title type="html">Practice lists for IPhO, APhO, etc.</title><link href="https://ferrispnugraha.github.io/blog/2023/olympiad-practice/" rel="alternate" type="text/html" title="Practice lists for IPhO, APhO, etc."/><published>2023-09-04T13:00:00+00:00</published><updated>2023-09-04T13:00:00+00:00</updated><id>https://ferrispnugraha.github.io/blog/2023/olympiad-practice</id><content type="html" xml:base="https://ferrispnugraha.github.io/blog/2023/olympiad-practice/"><![CDATA[<p>The following list is not exhaustive, and it is not meant to be. It is just a list of books that I have read and found useful. I hope it can be useful for you too. The key is to practice with available problems and solutions.</p> <h4 id="general-physics">General physics</h4> <hr/> <p>D. Halliday, R. Resnick, and J. Walker, Fundamentals of Physics. Milton: John Wiley, 2020.</p> <h4 id="olympiads">Olympiads</h4> <hr/> <p>H. Kwee, T. J. Anly, and Y. Virgus, Menjadi Juara Olimpiade. Edisi kedua. Yayasan Sinergi Mencerdaskan Tunas Negeri, 2017.</p> <p>L. Holics, 300 Creative Physics Problems: With Solutions. London: Anthem Press, 2011.</p> <p>J. Kalda. <a href="https://www.ioc.ee/~kalda/ipho/">Study guides for IPhO</a></p> <p>For IPhO and APhO, may refer to the official websites or at <a href="https://ipho.olimpicos.net/">here</a> and <a href="https://apho.olimpicos.net/">here</a></p> <h4 id="classical-mechanics-and-waves">Classical mechanics and Waves</h4> <hr/> <p>D. Morin, Introduction to Classical Mechanics: With Problems and Solutions. Cambridge: Cambridge University Press, 2019.</p> <p>Y.-K. Lim, Problems and Solutions on Mechanics. Singapore: World Scientific, 2008.</p> <p>H. J. Pain, The Physics of Vibrations and Waves. Chichester: Wiley, 2008.</p> <p>H. Georgi, The Physics of Waves. Englewood Cliffs, NJ: Prentice Hall, 2022.</p> <p>J. Wang and B. Ricardo, Competitive Physics: Mechanics and Waves. World Scientific, 2019.</p> <h4 id="electromagnetism">Electromagnetism</h4> <hr/> <p>D. J. Griffiths, Introduction to Electrodynamics. Cambridge University Press, 2023.</p> <p>Y. Lim and S. Zhao, Problems and Solutions on Electromagnetism. Singapore: World Scientific, 2007.</p> <p>E. M. Purcell and D. J. Morin, Electricity and Magnetism. Cambridge: Cambridge University Press, 2013.</p> <p>J. Wang and B. Ricardo, Competitive Physics: Thermodynamics, Electromagnetism and Relativity. Singapore: World Scientific Publishing Co. Pte. Ltd., 2019.</p> <h4 id="optics">Optics</h4> <hr/> <p>E. Hecht, Optics. Boston: Pearson, 2016.</p> <p>Z. Abidin, Gelombang dan Optik. STKIP Surya, 2017.</p> <p>G. Bai, G. Guo, and Y. Lim, Problems and Solutions on Optics. Singapore: World Scientific, 2011.</p> <h4 id="thermodynamics">Thermodynamics</h4> <hr/> <p>F. W. Sears and G. L. Salinger, Thermodynamics, Kinetic Theory, and Statistical Thermodynamics. Reading, MA: Addison-Wesley, 1986.</p> <p>S. Blundell and K. M. Blundell, Concepts in Thermal Physics. Oxford: Oxford University Press, 2019.</p> <p>Y. Lim, Problems and Solutions on Thermodynamics and Statistical Mechanics. Singapore: World Scientific, 1996.</p> <h4 id="relativity">Relativity</h4> <hr/> <p>D. Morin, Introduction to Classical Mechanics: With Problems and Solutions. Cambridge: Cambridge University Press, 2019.</p> <p>Y. Lim, Problems and Solutions on Solid State Physics, Relativity and Miscellaneous Topics. Singapore: World Scientific, 1994.</p> <h4 id="modern-physics">Modern physics</h4> <hr/> <p>K. S. Krane, Modern Physics. Hoboken, NJ: Wiley, 2020.</p> <p>C. Kittel and P. McEuen, Introduction to Solid State Physics. Hoboken, NJ: Wiley, 2022.</p> <p>D. J. Griffiths and D. F. Schroeter, Introduction to Quantum Mechanics. Cambridge: Cambridge University Press, 2020.</p> <p>Y. Lim, Problems and Solutions on Quantum Mechanics. Singapore: World Scientific, 1994.</p> <p>Y. Lim, Problems and Solutions on Atomic, Nuclear, and Particle Physics. Singapore: World Scientific, 2000.</p>]]></content><author><name></name></author><category term="reading"/><category term="physics"/><category term="olympiad"/><summary type="html"><![CDATA[classical mechanics, electromagnetism, thermodynamics, optics, wave, relativity, and modern physics]]></summary></entry><entry><title type="html">Transmon physics and circuit quantum electrodynamics (CQED)</title><link href="https://ferrispnugraha.github.io/blog/2023/transmon-cqed/" rel="alternate" type="text/html" title="Transmon physics and circuit quantum electrodynamics (CQED)"/><published>2023-08-29T10:00:00+00:00</published><updated>2023-08-29T10:00:00+00:00</updated><id>https://ferrispnugraha.github.io/blog/2023/transmon-cqed</id><content type="html" xml:base="https://ferrispnugraha.github.io/blog/2023/transmon-cqed/"><![CDATA[<p>Coming soon!</p>]]></content><author><name></name></author><category term="reading"/><category term="physics"/><category term="superconducting"/><summary type="html"><![CDATA[Fundamental concepts in cheat sheet]]></summary></entry><entry><title type="html">Quantum control methods</title><link href="https://ferrispnugraha.github.io/blog/2023/quantum-control/" rel="alternate" type="text/html" title="Quantum control methods"/><published>2023-08-29T10:00:00+00:00</published><updated>2023-08-29T10:00:00+00:00</updated><id>https://ferrispnugraha.github.io/blog/2023/quantum-control</id><content type="html" xml:base="https://ferrispnugraha.github.io/blog/2023/quantum-control/"><![CDATA[<p>Coming soon!</p>]]></content><author><name></name></author><category term="reading"/><category term="control"/><summary type="html"><![CDATA[Open-loop and closed-loop, model-based or model-free]]></summary></entry><entry><title type="html">Quantum state and process tomography</title><link href="https://ferrispnugraha.github.io/blog/2023/quantum-tomography/" rel="alternate" type="text/html" title="Quantum state and process tomography"/><published>2023-08-29T10:00:00+00:00</published><updated>2023-08-29T10:00:00+00:00</updated><id>https://ferrispnugraha.github.io/blog/2023/quantum-tomography</id><content type="html" xml:base="https://ferrispnugraha.github.io/blog/2023/quantum-tomography/"><![CDATA[<p>Coming soon!</p>]]></content><author><name></name></author><category term="reading"/><category term="physics"/><category term="theory"/><summary type="html"><![CDATA[Qubit, qudit, and bosonic modes]]></summary></entry><entry><title type="html">Recent architecture used in superconducting qubit processors</title><link href="https://ferrispnugraha.github.io/blog/2023/recent-architecture/" rel="alternate" type="text/html" title="Recent architecture used in superconducting qubit processors"/><published>2023-08-29T10:00:00+00:00</published><updated>2023-08-29T10:00:00+00:00</updated><id>https://ferrispnugraha.github.io/blog/2023/recent-architecture</id><content type="html" xml:base="https://ferrispnugraha.github.io/blog/2023/recent-architecture/"><![CDATA[<p>Coming soon!</p>]]></content><author><name></name></author><category term="reading"/><category term="applied"/><category term="superconducting"/><summary type="html"><![CDATA[Fixed capacitive coupling and tunable coupler based]]></summary></entry><entry><title type="html">RL for quantum control</title><link href="https://ferrispnugraha.github.io/blog/2023/reinforcement-learning-for-quantum-control/" rel="alternate" type="text/html" title="RL for quantum control"/><published>2023-08-29T10:00:00+00:00</published><updated>2023-08-29T10:00:00+00:00</updated><id>https://ferrispnugraha.github.io/blog/2023/reinforcement-learning-for-quantum-control</id><content type="html" xml:base="https://ferrispnugraha.github.io/blog/2023/reinforcement-learning-for-quantum-control/"><![CDATA[<p>Coming soon!</p>]]></content><author><name></name></author><category term="demo"/><category term="reinforcement-learning"/><summary type="html"><![CDATA[Demonstration with bang-bang protocol]]></summary></entry><entry><title type="html">Quantum Hardware Analysis</title><link href="https://ferrispnugraha.github.io/blog/2023/quantum-hardware-analysis/" rel="alternate" type="text/html" title="Quantum Hardware Analysis"/><published>2023-08-29T09:58:16+00:00</published><updated>2023-08-29T09:58:16+00:00</updated><id>https://ferrispnugraha.github.io/blog/2023/quantum-hardware-analysis</id><content type="html" xml:base="https://ferrispnugraha.github.io/blog/2023/quantum-hardware-analysis/"><![CDATA[<p>Coming soon!</p>]]></content><author><name></name></author><category term="reading"/><category term="cqed"/><category term="engineering"/><summary type="html"><![CDATA[from lumped elements to distributed, methods and tools]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferrispnugraha.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferrispnugraha.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-22T13:04:05+00:00</updated><id>https://ferrispnugraha.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">Fundamental transmon physics</title><link href="https://ferrispnugraha.github.io/blog/2025/transmon-physics/" rel="alternate" type="text/html" title="Fundamental transmon physics" /><published>2025-08-22T21:00:00+00:00</published><updated>2025-08-22T21:00:00+00:00</updated><id>https://ferrispnugraha.github.io/blog/2025/transmon-physics</id><content type="html" xml:base="https://ferrispnugraha.github.io/blog/2025/transmon-physics/"><![CDATA[<p>Since transmon qubit is a non-linear LC circuit, we expect some deviation of the Hamiltonian from the linear LC oscillator, as seen in Fig. 1. [1]</p>
+
+<figure style="text-align: center;">
+  <img src="/assets/img/LC_linear_nonlinear.png" alt="A diagram showing the difference between linear and non-linear LC circuits." style="width: 50%; max-width: 500px;" />
+  <figcaption style="font-size: 0.9em; ">
+    Fig. 1. Linear LC circuit vs nonlinear LC circuit implemented by transmon, image from [2].
+  </figcaption>
+</figure>
+
+<p>Given that the superconducting phase is \(\phi\). Since Josephson Junction has the current \(I = I_c \sin \phi\) while the potential difference is \(V = \frac{\Phi_0}{2\pi} \frac{d\phi}{dt}\) (here, \(\Phi_0 = \frac{h}{2e}\) is the magnetic flux quantum), it can be shown that Josephson Junction can be modeled as a non-linear inductor, where</p>
+
+<p>\begin{equation}
+L_{\text{eff}} = \frac{\Phi_0}{2\pi I_c} \frac{1}{\cos \phi}
+\end{equation}</p>
+
+<p>Hence, the effective transmon energy can be expressed as</p>
+
+<p>\begin{equation}
+\hat{H} = 4 E_C (\hat{n} - n_g)^2 - E_J \cos \hat{\phi}
+\end{equation}</p>
+
+<p>where \(E_J = \frac{\Phi_0 I_c}{2\pi}\) giving the energy landscape as shown in Fig. 1. [1]</p>
+
+<p>Rearranging the Hamiltonian in Eq. (2) using the ladder operator \(\hat{b}\), we obtain</p>
+
+<p>\begin{equation}
+\hat{H} = \hbar \omega_q \left( \hat{b}^\dagger \hat{b} + \frac{1}{2} \right) + \frac{\alpha}{2} \hat{b}^\dagger \hat{b}^\dagger \hat{b} \hat{b}
+\end{equation}</p>
+
+<p>The second term is not found in linear LC resonator, hence giving \(\alpha = -E_C = -\frac{e^2}{2C_q}\) the term non-linearity or anharmonicity.</p>
+
+<p>Obtaining the eigenenergies yields:</p>
+
+<p>\begin{equation}
+E_m \approx -E_J + \sqrt{8 E_C E_J} \left(m + \frac{1}{2} \right) - \frac{E_C}{12} (6m^2 + 6m + 3)
+\end{equation}</p>
+
+<p>Simple calculations from Eq. (4) will provide:</p>
+
+\[\begin{align*}
+\omega_{01} &amp;= E_1 - E_0 &amp;= \sqrt{8 E_C E_J} - E_C &amp;= \omega_p + \alpha \\
+\omega_{12} &amp;= E_2 - E_1 &amp;= \sqrt{8 E_C E_J} - 2E_C &amp;= \omega_{01} + \alpha \\
+\omega_{23} &amp;= E_3 - E_2 &amp;= \sqrt{8 E_C E_J} - 3E_C &amp;= \omega_{01} + 2\alpha \\
+\omega_{n, n+1} &amp;= E_{n+1} - E_n &amp;= \sqrt{8 E_C E_J} - n E_C &amp;= \omega_{01} + n\alpha
+\end{align*}\]
+
+<p>One may also show that \(E_{0m} = m \omega_{01} + \frac{\alpha}{2} m(m-1)\)</p>
+
+<p>The number of states in the transmon is limited by the energy barrier \(2 E_J\). Hence, we can approximate that</p>
+
+<p>\begin{equation}
+N \approx \frac{2 E_J}{\hbar \omega_{01}}
+\end{equation}</p>
+
+<p>For \(E_J = 13.6GHz\) and \(\omega_{01} = 5GHz\), we obtain \(N \approx 5\) levels [3].</p>
+
+<h1 id="references">References</h1>
+<p>[1] J Koch et al, Charge-insensitive qubit design derived from the Cooper pair box, Physical Review Applied 2007. <br />
+[2] P Krantz et al, A quantum engineer’s guide to superconducting qubits, Applied Physics Reviews 6, 021318 (2019) <br />
+[3] Z Wang et al, High-EJ/EC transmon qudits with up to 12 levels, Physical Review Applied 2025.</p>]]></content><author><name></name></author><category term="reading" /><category term="physics" /><category term="superconducting" /><summary type="html"><![CDATA[Cheat sheet style]]></summary></entry><entry><title type="html">Recent architecture used in superconducting qubit processors</title><link href="https://ferrispnugraha.github.io/blog/2025/recent-architecture/" rel="alternate" type="text/html" title="Recent architecture used in superconducting qubit processors" /><published>2025-08-22T16:00:00+00:00</published><updated>2025-08-22T16:00:00+00:00</updated><id>https://ferrispnugraha.github.io/blog/2025/recent-architecture</id><content type="html" xml:base="https://ferrispnugraha.github.io/blog/2025/recent-architecture/"><![CDATA[<h1 id="coupling-types">Coupling Types</h1>
+
+<h2 id="fixed-capacitive-coupling">Fixed capacitive coupling</h2>
+
+<p>Each transmon qubit is coupled through a fixed capacitance creating the coupling strength \(g_{12}\) as shown in Fig. 1.</p>
+
+<p>\begin{equation}
+\hat{H}/\hbar = \sum_{i=1,2}\left({\omega_{q,i} \hat{b}_i^\dagger \hat{b}_i + \frac{\alpha_{q,i}}{2} \hat{b}_i^\dagger \hat{b}_i^\dagger \hat{b}_i \hat{b}_i} \right)+ g_{12} \left( \hat{b}_1^\dagger + \hat{b}_1 \right)\left( \hat{b}_2^\dagger + \hat{b}_2 \right)
+\end{equation}</p>
+
+<p>The Hamiltonian of the system is given in Eq. (1), where the coupling strength is given by \(g_{12} = \frac{2E_{C1}E_{C2}}{E_c} \left( \frac{E_{J1}}{2E_{C1}} \times \frac{E_{J2}}{2E_{C2}} \right)^{1/4}\) [1].</p>
+
+<figure style="text-align: center;">
+  <img src="/assets/img/fixed-cap-coupling.png" alt="A diagram showing two qubits connected by a fixed capacitor." style="width: 50%; max-width: 500px;" />
+  <figcaption style="font-size: 0.9em; ">
+    Fig. 1. Qubits connected through a fixed capacitance, image from [2].
+  </figcaption>
+</figure>
+
+<p>This coupling scheme inspires the heavy hexagonal architecture adapted by IBM Quantum in its early processors such as IBM Condor and its predecessors, illustrated in Fig. 2 [3, 4]. However, more connectivity among the qubits increases the vulnerability to frequency collisions.</p>
+
+<figure style="text-align: center;">
+  <img src="/assets/img/heavy_hex.png" alt="A diagram showing the heavy hex architecture used in previous IBM Quantum processors." style="width: 50%; max-width: 500px;" />
+  <figcaption style="font-size: 0.9em; ">
+    Fig. 2. Heavy hex architecture used in previous IBM Quantum processors, image from [3].
+  </figcaption>
+</figure>
+
+<h2 id="tunable-coupler-based">Tunable coupler based</h2>
+
+<p>Each transmon qubit is coupled through a tunable transmon coupler with higher frequency maintaining the dispersive interaction.</p>
+
+<p>\begin{equation}
+\hat{H}/\hbar = \sum_{i=1,2}\left({\omega_{q,i} \hat{b}_i^\dagger \hat{b}_i + \frac{\alpha_{q,i}}{2} \hat{b}_i^\dagger \hat{b}_i^\dagger \hat{b}_i \hat{b}_i} \right)+ \sum_{i\neq j} g_{ij} \left( \hat{b}_i^\dagger + \hat{b}_i \right)\left( \hat{b}_j^\dagger + \hat{b}_j \right)
+\end{equation}</p>
+
+<figure style="text-align: center;">
+  <img src="/assets/img/tunable_coupling.png" alt="A diagram showing two qubits connected by a tunable coupler." style="width: 50%; max-width: 500px;" />
+  <figcaption style="font-size: 0.9em; ">
+    Fig. 3. Qubits connected through a tunable transmon coupler, image from [5].
+  </figcaption>
+</figure>
+
+<p>The Hamiltonian is as shown in Eq. (2), where each coupling strengths can be expressed in terms of the coupling capacitances: \(g_1 \approx \frac{1}{2} \frac{C_{1c}}{\sqrt{C_1 C_c}} \sqrt{\omega_1 \omega_c}\), \(g_2 \approx \frac{1}{2} \frac{C_{2c}}{\sqrt{C_2 C_c}} \sqrt{\omega_2 \omega_c}\), and \(g_{12} \approx \frac{1}{2} \left[ \frac{C_{12}}{\sqrt{C_1 C_2}} + \frac{C_{1c}C_{2c}}{\sqrt{C_1 C_2 C_c^2}} \right] \sqrt{\omega_1 \omega_2}\) [].</p>
+
+<figure style="text-align: center;">
+  <img src="/assets/img/square_lattice.png" alt="A diagram showing the square lattice used by Google Quantum AI." style="width: 50%; max-width: 500px;" />
+  <figcaption style="font-size: 0.9em; ">
+    Fig. 4. Square lattice architecture used by Google Quantum AI, image from [6].
+  </figcaption>
+</figure>
+
+<p>Recently, this scheme gains popularity due to the potential of isolating some qubits with the tunable coupling strength. This scheme inspires the square lattice used by Google Quantum AI [6], along with some processors developed by ETH Zurich [7], USTC [8], and IQM Finland [9]. IBM Quantum has also started to adopt this scheme, beginning from IBM Heron [10].</p>
+
+<h1 id="references">References</h1>
+<p>[1] A Blais et al, Circuit quantum electrodynamics, Reviews of Modern Physics 93, 025003 (2021) <br />
+[2] P Krantz et al, A quantum engineer’s guide to superconducting qubits, Applied Physics Reviews 6, 021318 (2019) <br />
+[3] https://research.ibm.com/blog/heavy-hex-lattice <br />
+[4] C Chamberland et al, Topological and Subsystem Codes on Low-Degree Graphs with Flag Qubits, Phys. Rev. X 10, 011022 (2020) <br />
+[5] F Yan et al, Tunable Coupling Scheme for Implementing High-Fidelity Two-Qubit Gates, Physical Review Applied 10, 054062 (2018) <br />
+[6] Google Quantum AI, Suppressing quantum errors by scaling a surface code logical qubit, Nature 614, pages 676–681 (2023)<br />
+[7] F Swiadek et al, Enhancing dispersive readout of superconducting qubits through dynamic control of the dispersive shift: Experiment and theory, PRX Quantum 2024<br />
+[8] Y Wu et al, Strong quantum computational advantage using a superconducting quantum processor, Physical Review Letters 127 (18), 180501 <br />
+[9] https://aws.amazon.com/cn/blogs/quantum-computing/amazon-braket-launches-new-54-qubit-superconducting-quantum-processor-from-iqm/ <br />
+[10] https://www.ibm.com/quantum/blog/large-scale-ftqc</p>]]></content><author><name></name></author><category term="reading" /><category term="applied" /><category term="superconducting" /><summary type="html"><![CDATA[Fixed capacitive coupling and tunable coupler based]]></summary></entry><entry><title type="html">Bosonic qubit types</title><link href="https://ferrispnugraha.github.io/blog/2025/bosonic-qubits/" rel="alternate" type="text/html" title="Bosonic qubit types" /><published>2025-08-22T16:00:00+00:00</published><updated>2025-08-22T16:00:00+00:00</updated><id>https://ferrispnugraha.github.io/blog/2025/bosonic-qubits</id><content type="html" xml:base="https://ferrispnugraha.github.io/blog/2025/bosonic-qubits/"><![CDATA[]]></content><author><name></name></author><category term="reading" /><category term="QEC" /><category term="superconducting" /><summary type="html"><![CDATA[Cat, binomial, and GKP qubits]]></summary></entry><entry><title type="html">Must-know quantum gates</title><link href="https://ferrispnugraha.github.io/blog/2025/quantum-gates-qubit-qudit/" rel="alternate" type="text/html" title="Must-know quantum gates" /><published>2025-08-21T10:00:00+00:00</published><updated>2025-08-21T10:00:00+00:00</updated><id>https://ferrispnugraha.github.io/blog/2025/quantum-gates-qubit-qudit</id><content type="html" xml:base="https://ferrispnugraha.github.io/blog/2025/quantum-gates-qubit-qudit/"><![CDATA[<p>Coming soon!</p>]]></content><author><name></name></author><category term="reading" /><category term="physics" /><category term="superconducting" /><summary type="html"><![CDATA[From qubits, qutrits, to qudits]]></summary></entry><entry><title type="html">Practice lists for IPhO, APhO, etc.</title><link href="https://ferrispnugraha.github.io/blog/2023/olympiad-practice/" rel="alternate" type="text/html" title="Practice lists for IPhO, APhO, etc." /><published>2023-09-04T13:00:00+00:00</published><updated>2023-09-04T13:00:00+00:00</updated><id>https://ferrispnugraha.github.io/blog/2023/olympiad-practice</id><content type="html" xml:base="https://ferrispnugraha.github.io/blog/2023/olympiad-practice/"><![CDATA[<p>The following list is not exhaustive, and it is not meant to be. It is just a list of books that I have read and found useful. I hope it can be useful for you too. The key is to practice with available problems and solutions.</p>
+
+<h4 id="general-physics">General physics</h4>
+<hr />
+<p>D. Halliday, R. Resnick, and J. Walker, Fundamentals of Physics. Milton: John Wiley, 2020.</p>
+
+<h4 id="olympiads">Olympiads</h4>
+<hr />
+<p>H. Kwee, T. J. Anly, and Y. Virgus, Menjadi Juara Olimpiade. Edisi kedua. Yayasan Sinergi Mencerdaskan Tunas Negeri, 2017.</p>
+
+<p>L. Holics, 300 Creative Physics Problems: With Solutions. London: Anthem Press, 2011.</p>
+
+<p>J. Kalda. <a href="https://www.ioc.ee/~kalda/ipho/">Study guides for IPhO</a></p>
+
+<p>For IPhO and APhO, may refer to the official websites or at <a href="https://ipho.olimpicos.net/">here</a> and <a href="https://apho.olimpicos.net/">here</a></p>
+
+<h4 id="classical-mechanics-and-waves">Classical mechanics and Waves</h4>
+<hr />
+<p>D. Morin, Introduction to Classical Mechanics: With Problems and Solutions. Cambridge: Cambridge University Press, 2019.</p>
+
+<p>Y.-K. Lim, Problems and Solutions on Mechanics. Singapore: World Scientific, 2008.</p>
+
+<p>H. J. Pain, The Physics of Vibrations and Waves. Chichester: Wiley, 2008.</p>
+
+<p>H. Georgi, The Physics of Waves. Englewood Cliffs, NJ: Prentice Hall, 2022.</p>
+
+<p>J. Wang and B. Ricardo, Competitive Physics: Mechanics and Waves. World Scientific, 2019.</p>
+
+<h4 id="electromagnetism">Electromagnetism</h4>
+<hr />
+<p>D. J. Griffiths, Introduction to Electrodynamics. Cambridge University Press, 2023.</p>
+
+<p>Y. Lim and S. Zhao, Problems and Solutions on Electromagnetism. Singapore: World Scientific, 2007.</p>
+
+<p>E. M. Purcell and D. J. Morin, Electricity and Magnetism. Cambridge: Cambridge University Press, 2013.</p>
+
+<p>J. Wang and B. Ricardo, Competitive Physics: Thermodynamics, Electromagnetism and Relativity. Singapore: World Scientific Publishing Co. Pte. Ltd., 2019.</p>
+
+<h4 id="optics">Optics</h4>
+<hr />
+
+<p>E. Hecht, Optics. Boston: Pearson, 2016.</p>
+
+<p>Z. Abidin, Gelombang dan Optik. STKIP Surya, 2017.</p>
+
+<p>G. Bai, G. Guo, and Y. Lim, Problems and Solutions on Optics. Singapore: World Scientific, 2011.</p>
+
+<h4 id="thermodynamics">Thermodynamics</h4>
+<hr />
+<p>F. W. Sears and G. L. Salinger, Thermodynamics, Kinetic Theory, and Statistical Thermodynamics. Reading, MA: Addison-Wesley, 1986.</p>
+
+<p>S. Blundell and K. M. Blundell, Concepts in Thermal Physics. Oxford: Oxford University Press, 2019.</p>
+
+<p>Y. Lim, Problems and Solutions on Thermodynamics and Statistical Mechanics. Singapore: World Scientific, 1996.</p>
+
+<h4 id="relativity">Relativity</h4>
+<hr />
+<p>D. Morin, Introduction to Classical Mechanics: With Problems and Solutions. Cambridge: Cambridge University Press, 2019.</p>
+
+<p>Y. Lim, Problems and Solutions on Solid State Physics, Relativity and Miscellaneous Topics. Singapore: World Scientific, 1994.</p>
+
+<h4 id="modern-physics">Modern physics</h4>
+<hr />
+<p>K. S. Krane, Modern Physics. Hoboken, NJ: Wiley, 2020.</p>
+
+<p>C. Kittel and P. McEuen, Introduction to Solid State Physics. Hoboken, NJ: Wiley, 2022.</p>
+
+<p>D. J. Griffiths and D. F. Schroeter, Introduction to Quantum Mechanics. Cambridge: Cambridge University Press, 2020.</p>
+
+<p>Y. Lim, Problems and Solutions on Quantum Mechanics. Singapore: World Scientific, 1994.</p>
+
+<p>Y. Lim, Problems and Solutions on Atomic, Nuclear, and Particle Physics. Singapore: World Scientific, 2000.</p>]]></content><author><name></name></author><category term="reading" /><category term="physics" /><category term="olympiad" /><summary type="html"><![CDATA[classical mechanics, electromagnetism, thermodynamics, optics, wave, relativity, and modern physics]]></summary></entry><entry><title type="html">RL for quantum control</title><link href="https://ferrispnugraha.github.io/blog/2023/reinforcement-learning-for-quantum-control/" rel="alternate" type="text/html" title="RL for quantum control" /><published>2023-08-29T10:00:00+00:00</published><updated>2023-08-29T10:00:00+00:00</updated><id>https://ferrispnugraha.github.io/blog/2023/reinforcement-learning-for-quantum-control</id><content type="html" xml:base="https://ferrispnugraha.github.io/blog/2023/reinforcement-learning-for-quantum-control/"><![CDATA[<p>Coming soon!</p>]]></content><author><name></name></author><category term="demo" /><category term="reinforcement-learning" /><summary type="html"><![CDATA[Demonstration with bang-bang protocol]]></summary></entry><entry><title type="html">Quantum Hardware Analysis</title><link href="https://ferrispnugraha.github.io/blog/2023/quantum-hardware-analysis/" rel="alternate" type="text/html" title="Quantum Hardware Analysis" /><published>2023-08-29T09:58:16+00:00</published><updated>2023-08-29T09:58:16+00:00</updated><id>https://ferrispnugraha.github.io/blog/2023/quantum-hardware-analysis</id><content type="html" xml:base="https://ferrispnugraha.github.io/blog/2023/quantum-hardware-analysis/"><![CDATA[<p>Coming soon!</p>]]></content><author><name></name></author><category term="reading" /><category term="cqed" /><category term="engineering" /><summary type="html"><![CDATA[from lumped elements to distributed, methods and tools]]></summary></entry></feed>
