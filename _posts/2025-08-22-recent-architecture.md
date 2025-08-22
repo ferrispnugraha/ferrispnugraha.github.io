@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Recent architecture used in superconducting qubit processors
-date:   2025-08-25 16:00:00
+date:   2025-08-22 16:00:00
 description: Fixed capacitive coupling and tunable coupler based
 tags: applied superconducting
 categories: reading
@@ -70,13 +70,13 @@ The Hamiltonian is as shown in Eq. (2), where each coupling strengths can be exp
 Recently, this scheme gains popularity due to the potential of isolating some qubits with the tunable coupling strength. This scheme inspires the square lattice used by Google Quantum AI [6], along with some processors developed by ETH Zurich [7], USTC [8], and IQM Finland [9]. IBM Quantum has also started to adopt this scheme, beginning from IBM Heron [10].
 
 # References 
-[1] A Blais et al, "Circuit quantum electrodynamics", Reviews of Modern Physics 93, 025003 (2021) \\
-[2] P Krantz et al, "A quantum engineer's guide to superconducting qubits", Applied Physics Reviews 6, 021318 (2019) \\
+[1] A Blais et al, Circuit quantum electrodynamics, Reviews of Modern Physics 93, 025003 (2021) \\
+[2] P Krantz et al, A quantum engineer's guide to superconducting qubits, Applied Physics Reviews 6, 021318 (2019) \\
 [3] https://research.ibm.com/blog/heavy-hex-lattice \\
-[4] C Chamberland et al, "Topological and Subsystem Codes on Low-Degree Graphs with Flag Qubits", Phys. Rev. X 10, 011022 (2020) \\
-[5] F Yan et al, "Tunable Coupling Scheme for Implementing High-Fidelity Two-Qubit Gates", Physical Review Applied 10, 054062 (2018) \\
-[6] Google Quantum AI, "Suppressing quantum errors by scaling a surface code logical qubit", Nature 614, pages 676–681 (2023)\\
-[7] F Swiadek et al, "Enhancing dispersive readout of superconducting qubits through dynamic control of the dispersive shift: Experiment and theory", PRX Quantum 2024\\
-[8] Y Wu et al, "Strong quantum computational advantage using a superconducting quantum processor", Physical Review Letters 127 (18), 180501 \\
+[4] C Chamberland et al, Topological and Subsystem Codes on Low-Degree Graphs with Flag Qubits, Phys. Rev. X 10, 011022 (2020) \\
+[5] F Yan et al, Tunable Coupling Scheme for Implementing High-Fidelity Two-Qubit Gates, Physical Review Applied 10, 054062 (2018) \\
+[6] Google Quantum AI, Suppressing quantum errors by scaling a surface code logical qubit, Nature 614, pages 676–681 (2023)\\
+[7] F Swiadek et al, Enhancing dispersive readout of superconducting qubits through dynamic control of the dispersive shift: Experiment and theory, PRX Quantum 2024\\
+[8] Y Wu et al, Strong quantum computational advantage using a superconducting quantum processor, Physical Review Letters 127 (18), 180501 \\
 [9] https://aws.amazon.com/cn/blogs/quantum-computing/amazon-braket-launches-new-54-qubit-superconducting-quantum-processor-from-iqm/ \\
 [10] https://www.ibm.com/quantum/blog/large-scale-ftqc
