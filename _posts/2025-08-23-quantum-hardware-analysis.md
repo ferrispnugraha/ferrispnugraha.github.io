@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Superconducting Quantum Hardware Design and Analysis
-date:   2025-08-23 17:00:00
+date:   2025-08-23 18:00:00
 description: Design tools and circuit analysis methods
 tags: cqed engineering
 categories: reading
@@ -16,7 +16,7 @@ As illustrated in Fig. 1, layoutting design focuses on the placement of the supe
 <figure style="text-align: center;">
   <img src="/assets/img/kqcircuits_spinqeda.png" 
        alt="A diagram showing the layoutting in superconducting quantum circuits." 
-       style="width: 80%; max-width: 500px;">
+       style="width: 80%; max-width: 600px;">
   <figcaption style="font-size: 0.9em; ">
     Fig. 1. Layoutting of superconducting quantum circuits, with the help of IQM KQCircuits [2] and SpinQ QEDA [3].
   </figcaption>
@@ -30,7 +30,7 @@ After the layout design is complete, the design can be imported to simulation or
 <figure style="text-align: center;">
   <img src="/assets/img/palace_ansys.png" 
        alt="A diagram showing the analysis software of superconducting quantum circuits." 
-       style="width: 80%; max-width: 500px;">
+       style="width: 80%; max-width: 600px;">
   <figcaption style="font-size: 0.9em; ">
     Fig. 2. Analyzing of superconducting quantum circuits, using AWS Quantum Palace [4] and ANSYS Electronics [5].
   </figcaption>
@@ -48,7 +48,7 @@ Maxwell Capacitance Matrix calculated by the static Q3D analysis. This matrix is
 <figure style="text-align: center;">
   <img src="/assets/img/LOM_method.png" 
        alt="A diagram showing the lumped oscillation model flow." 
-       style="width: 80%; max-width: 500px;">
+       style="width: 80%; max-width: 600px;">
   <figcaption style="font-size: 0.9em; ">
     Fig. 3. Lumped Oscillation Model analysis, image adapted from [7].
   </figcaption>
@@ -61,7 +61,7 @@ The impedance-based Black Box Quantization (BBQ) [10, 11] uses the result from t
 <figure style="text-align: center;">
   <img src="/assets/img/BBQ_method.png" 
        alt="The black-box quantization method in a nutshell." 
-       style="width: 80%; max-width: 500px;">
+       style="width: 80%; max-width: 600px;">
   <figcaption style="font-size: 0.9em; ">
     Fig. 4. Black-box quantization (BBQ) / Impedance Analysis in a nutshell, image adapted from [10, 11]
   </figcaption>
@@ -75,9 +75,9 @@ The most recent analysis method uses the Energy Participation Ratio (EPR) obtain
 <figure style="text-align: center;">
   <img src="/assets/img/EPR_method.png" 
        alt="The energy participation ratio method in a nutshell." 
-       style="width: 80%; max-width: 500px;">
+       style="width: 80%; max-width: 600px;">
   <figcaption style="font-size: 0.9em; ">
-    Fig. 5. Energy Participation Ratio (EPR) in a system of multiple qubits, image from []
+    Fig. 5. Energy Participation Ratio (EPR) in a system of multiple qubits, image from [12]
   </figcaption>
 </figure>
 
@@ -94,4 +94,4 @@ The most recent analysis method uses the Energy Participation Ratio (EPR) obtain
 [10] SE Nigg et al, Black-Box Superconducting Circuit Quantization, Physical Review Letters 108, 240501 (2012) \\
 [11] F Solgun et al, Blackbox quantization of superconducting circuits using exact impedance synthesis, Physical Review B 90, 134504 (2014) \\
 [12] ZK. Minev et al, Energy-participation quantization of Josephson circuits, npj Quantum Information 2021 \\
-[13] K-H Yu et al, Using inductive Energy Participation Ratio for Superconducting Quantum Chip Characterization, Physical Review Applied 21, 034027 (2024) \\
+[13] K-H Yu et al, Using inductive Energy Participation Ratio for Superconducting Quantum Chip Characterization, Physical Review Applied 21, 034027 (2024)
