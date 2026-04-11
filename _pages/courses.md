@@ -4,7 +4,7 @@ permalink: /courses/
 title: Courses
 description:
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
@@ -18,7 +18,7 @@ ELEC 2350: Computer Organization (Spring 2023)
 
 ELEC 4010O: Practical Considerations of Analog Integrated Circuit Design (Fall 2023)
 
-ELEC 5200: Advanced Topics in Nanoelectronics. (Spring 2023, Tutorial)
+ELEC 5210: Advanced Topics in Nanoelectronics. (Spring 2023, Tutorial; Spring 2026, Project Design)
 
 Hall Tutor at HKUST Undergraduate Hall 6 (2024-2026)
 
