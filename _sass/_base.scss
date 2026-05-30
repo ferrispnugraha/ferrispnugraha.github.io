@@ -145,7 +145,8 @@ blockquote {
 
   .profile {
     float: none !important;
-    width: 240px;
+    width: 55%;
+    max-width: 200px;
     margin-left: auto !important;
     margin-right: auto !important;
     text-align: center;
@@ -391,6 +392,14 @@ footer.sticky-bottom {
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
+}
+
+@media (max-width: 575.98px) {
+  footer.sticky-bottom {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 0.7rem;
+  }
 }
 
 // CV
